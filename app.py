@@ -11,7 +11,7 @@ from seleniumbase import SB
 EMAIL        = os.environ.get("KATABUMP_EMAIL") or "sstyss@proton.me"    # 登录邮箱
 PASSWORD     = os.environ.get("KATABUMP_PASSWORD") or "20193960Su." # 账号密码
 TG_CHAT_ID   = os.environ.get("TG_CHAT_ID") or "7345759451"        # tg通知 chat id(可选)
-TG_BOT_TOKEN = os.environ.get("TG_BOT_TOKEN") or ""      # tg通知bot token(可选)
+TG_BOT_TOKEN = os.environ.get("TG_BOT_TOKEN") or "9124947971:AAFtpWNrY81ch42s_NM-jjrqvEINQqzreKA"      # tg通知bot token(可选)
 
 BASE_URL = "https://dashboard.katabump.com"  # 网站链接
 
