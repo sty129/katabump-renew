@@ -1,6 +1,8 @@
 ## 🚀 katabump 自动续期（GitHub Actions）
 原项目https://github.com/eooce/katabump-renew
-🔐 Secrets 配置说明
+
+
+### 🔐 Secrets 配置说明
 
 | Secret 名称         | 是否必填 | 说明                                              |
 |---------------------|----------|---------------------------------------------------|
